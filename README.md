@@ -1,7 +1,7 @@
-React Stopwatch App with Lap Functionality
+#React Stopwatch App with Lap Functionality
 This is a simple stopwatch app built using React that includes lap functionality.
 
-Features
+#Features
 Start the stopwatch
 Stop the stopwatch
 Reset the stopwatch
