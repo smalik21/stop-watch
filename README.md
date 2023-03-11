@@ -6,7 +6,8 @@ This is a simple stopwatch app built using React that includes lap functionality
 ### Stop the stopwatch
 ### Reset the stopwatch
 ### Record lap times
+
 ## Installation
-## Clone the repository: git clone https://github.com/<username>/<repo-name>.git
-### Install dependencies: npm install
-### Run the app: npm start
+### Clone the repository: `git clone https://github.com/<username>/<repo-name>.git`
+### Install dependencies: `npm install`
+### Run the app: `npm start`
