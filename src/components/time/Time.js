@@ -6,10 +6,10 @@ export default function Time(props) {
     return (
         <div className="time">
             <MainTime
-             time={props.time}
+                time={props.time}
             />
             <LapTime
-             lapTime={props.lapTime}
+                lapTime={props.lapTime}
             />
         </div>
     );

@@ -17,7 +17,7 @@ export default function LapTimings(props) {
     return (
         <div className="lap-timings">
             {laps.map((lapTime) => (
-                <div className="lap">
+                <div key={lapTime[0]} className="lap">
                     <p className="index">{`${format(lapTime[0])}`}</p>
                     <p className="lap-times">{`${formatTime(lapTime[1])}`}</p>
                     <p className="overall-time">{`${formatTime(lapTime[2])}`}</p>

@@ -7,7 +7,7 @@ export default function Laps(props) {
         <div className="laps">
             <LapLabels />
             <div className='line'></div>
-            <LapTimings 
+            <LapTimings
                 laps={props.laps}
             />
         </div>
